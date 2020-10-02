@@ -8,3 +8,4 @@
 - 🌱 I’m currently learning on ... and other educational stuff
 - 📫 How to reach me: email, [Linked](https://www.linkedin.com/in/sang-lequang)
 ![My fun BFS](https://raw.githubusercontent.com/sangqle/Data-Structures-Algorithms/master/images/BFS.gif)
+![DFS routes](https://raw.githubusercontent.com/sangqle/Data-Structures-Algorithms/master/images/dfsroute.gif)
