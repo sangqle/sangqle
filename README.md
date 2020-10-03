@@ -14,4 +14,4 @@
   ![DFS with random maze](https://raw.githubusercontent.com/sangqle/Data-Structures-Algorithms/master/images/dfs-maze.gif)
   
   # # Opencv.js
-  ![Blur image](blur.gif)
+  ![Blur image](blurimage.gif)
