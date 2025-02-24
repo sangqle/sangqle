@@ -6,18 +6,9 @@
 
 - 🔭 I’m currently working on free time
 - 🌱 I’m currently learning on ... and other educational stuff
-- 📫 How to reach me: sang.sevn@gmail, [Linkedin](https://www.linkedin.com/in/sang-lequang)
+- 📫 How to reach me: +84968353293, sang.sevn@gmail and [Linkedin](https://www.linkedin.com/in/sang-lequang)
 
 <!--<img width="833" alt="image" src="https://github.com/user-attachments/assets/985755e2-2b42-4f7d-99b8-db98f94f178b" />-->
-
-# QUANG-SANG LE
-
-**Sr. Software Engineer**  
-Ho Chi Minh City, Vietnam  
-+84 968 353 293  
-Sang.sevn@gmail.com
-
----
 
 ## Work Experiences
 
@@ -37,7 +28,6 @@ Sang.sevn@gmail.com
 ---
 
 ## Projects
-
 ### Cabin Framework (Custom Java framework)
 **01/2025 - Present**
 
@@ -57,8 +47,8 @@ Sang.sevn@gmail.com
 
 ## Education and Qualifications
 
-**BSc. Software Engineering**  
-Can Tho University, 09/2016 - 01/2021
+- **BSc. Software Engineering**  
+  Can Tho University, 09/2016 - 01/2021
 
 ---
 
