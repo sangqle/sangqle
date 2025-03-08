@@ -31,7 +31,7 @@
 ### Cabin Framework (Custom Java framework)
 **01/2025 - Present**
 
-- Cabin is an open-source, lightweight Java framework inspired by Express.js, built on Java NIO – [github.com/sangqle](https://github.com/sangqle).
+- Cabin is an open-source, lightweight Java framework inspired by Express.js, built on Java NIO – [github.com/sangqle](https://github.com/sangqle/cabinjv).
 - Implemented a custom Jetty-like container, enabling efficient RESTful API development without external dependencies.
 - Provided core components like routing, middleware support, and request handling, making it a complete web server solution in Java.
 
